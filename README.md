@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravishan32&label=Profile%20views&color=0e75b6&style=flat" alt="ravishan32" /> </p>
 
-- 👨‍💻 I love using Software as a solution for every [Problem](Problem)
-
 - 🌱 I’m currently learning at **Horizon Campus in Malabe.**
 
 - 🤔 I’m currently open for a new [job opportunity](job opportunity)
@@ -12,6 +10,8 @@
 - 🤓 Always [learning new things](learning new things)
 
 - 📫 How to reach me **ravishankavindu7@gmail.com**
+
+- 👨‍💻 I love using Software as a solution for every [Problem](Problem)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
