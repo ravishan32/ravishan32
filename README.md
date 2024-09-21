@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning at **Horizon Campus in Malabe.**
 
-- 🤔 I’m currently open for a new [job opportunity](job opportunity)
+- 👨‍💻 I love using Software as a solution for every Problem.
 
-- 🤓 Always [learning new things](learning new things)
+- 🤓 Always learning new things.
+
+- 🤔 I’m currently open for a new job opportunity.
 
 - 📫 How to reach me **ravishankavindu7@gmail.com**
-
-- 👨‍💻 I love using Software as a solution for every [Problem](Problem)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
