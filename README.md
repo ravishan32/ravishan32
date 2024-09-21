@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning at **Horizon Campus in Malabe.**
 
-- 🤓 Always [learning new things](learning new things)
-
 - 🤔 I’m currently open for a new [job opportunity](job opportunity)
+
+- 🤓 Always [learning new things](learning new things)
 
 - 📫 How to reach me **ravishankavindu7@gmail.com**
 
